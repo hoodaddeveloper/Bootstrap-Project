@@ -1,2 +1,6 @@
-/* Fonts */
+/* Import Lalezar Font */
 @import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+.lalezar {
+  font-family: "lalezar";
+}
