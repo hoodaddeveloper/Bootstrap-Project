@@ -8,3 +8,9 @@
 .navbar {
   background-color: #f2f5fc;
 }
+
+@media screen and (min-width: 768px) {
+  .position-md-fixed {
+    position: fixed;
+  }
+}
