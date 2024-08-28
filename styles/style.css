@@ -34,3 +34,10 @@
 .course-list-item:hover {
   background: rgb(240, 240, 240);
 }
+
+/* Header background */
+
+.header {
+  background: url('../images/header/header-bg.png') top center no-repeat;
+  background-size: cover;
+}
