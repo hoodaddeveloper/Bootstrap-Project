@@ -23,7 +23,6 @@
   background: #fff;
   border-radius: 10px;
   border: 1px solid #ddd;
-
 }
 
 .course-list-item {
@@ -49,7 +48,7 @@
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
-/* services */
+/* Services */
 
 .service-box {
   border-radius: 5px;
@@ -83,4 +82,20 @@
 
 .service-box:hover .read-more {
   color: white !important;
+}
+
+/* Pricing */
+
+.pricing-box {
+  transition: all 0.5s;
+}
+
+.pricing-box:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+
+footer {
+  background: #f2f5fc;
 }
